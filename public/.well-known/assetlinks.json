@@ -6,7 +6,8 @@
         "package_name": "com.alkwaityalawalapp",
         "sha256_cert_fingerprints": [
           "FA:C6:17:45:DC:09:03:78:6F:B9:ED:E6:2A:96:2B:39:9F:73:48:F0:BB:6F:89:9B:83:32:66:75:91:03:3B:9C",
-          "DC:8C:6D:CE:01:E6:2B:36:82:E6:33:35:55:0B:EA:26:EB:76:CE:18:DF:34:65:C4:CE:98:2A:C3:B0:0E:55:08"
+          "DC:8C:6D:CE:01:E6:2B:36:82:E6:33:35:55:0B:EA:26:EB:76:CE:18:DF:34:65:C4:CE:98:2A:C3:B0:0E:55:08",
+          "2B:40:5F:5C:6F:17:0B:54:32:91:BB:A0:13:72:56:9A:A5:3F:A0:4A:FF:CE:0F:FF:0D:4B:BD:54:8D:7C:C7:42"
         ]
       }
     }
