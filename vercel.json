@@ -1,8 +1,15 @@
 {
-    "routes": [
-      {
-        "src": "/.well-known/(.*)",
-        "dest": "/public/.well-known/$1"
+  "routes": [
+    {
+      "src": "/.well-known/apple-app-site-association",
+      "dest": "/public/.well-known/apple-app-site-association",
+      "headers": {
+        "Content-Type": "application/json"
       }
-    ]
-  }
+    },
+    {
+      "src": "/.well-known/(.*)",
+      "dest": "/public/.well-known/$1"
+    }
+  ]
+}
