@@ -1,0 +1,12 @@
+{
+    "applinks": {
+      "apps": [],
+      "details": [
+        {
+          "appID": "6633423760.org.reactjs.native.cyberpixel.kuwaiti",
+          "paths": ["/productDetails/*"]
+        }
+      ]
+    }
+  }
+  
